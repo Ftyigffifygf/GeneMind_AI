@@ -26,23 +26,23 @@
 
 ```
 genemind_ai/
-¦
+Â¦
 +-- cli.py                        # Command-line interface
 +-- requirements.txt              # Dependency list
 +-- .env                          # API key and environment variables
 +-- todo.md                       # Project plan & progress
 +-- app/
-¦   +-- modules/                  # Modular functional units
-¦       +-- gene_loader.py
-¦       +-- genome_mapping.py
-¦       +-- mutation_detector.py
-¦       +-- gene_creator.py
-¦       +-- animal_genome_loader.py
-¦       +-- cancer_anomaly_detector.py
-¦       +-- llm_integration.py
-¦       +-- dna_converter.py
-¦       +-- security_check.py
-¦       +-- molecular_format_analysis.py
+Â¦   +-- modules/                  # Modular functional units
+Â¦       +-- gene_loader.py
+Â¦       +-- genome_mapping.py
+Â¦       +-- mutation_detector.py
+Â¦       +-- gene_creator.py
+Â¦       +-- animal_genome_loader.py
+Â¦       +-- cancer_anomaly_detector.py
+Â¦       +-- llm_integration.py
+Â¦       +-- dna_converter.py
+Â¦       +-- security_check.py
+Â¦       +-- molecular_format_analysis.py
 +-- venv/                         # Python virtual environment (optional)
 ```
 
@@ -138,7 +138,7 @@ python cli.py create-synthetic-gene --length 500
 
 ## ?? License
 
-This project is under MIT License.
+This project is under Genetic Team
 Use responsibly. Genetic data is sensitive and ethical usage is mandatory.
 
 ---
