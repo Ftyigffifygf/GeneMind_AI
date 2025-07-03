@@ -136,11 +136,7 @@ python cli.py create-synthetic-gene --length 500
 
 ---
 
-## ?? License
 
-This project is under Genetic Team
-Use responsibly. Genetic data is sensitive and ethical usage is mandatory.
 
----
 
 
